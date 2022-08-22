@@ -10,8 +10,10 @@ Thanks for stopping by. Here's a little bit about myself:
 - 📫 Here's how you can reach me: [Twitter](https://twitter.com/iamontheinet) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
 - ⚡ Fun fact about me: I am an aspiring photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 - 📝 Here are my most recent blogs:
-   - [Getting Started with Snowpark and Streamlit](https://medium.com/snowflake/getting-started-with-snowpark-for-python-and-streamlit-908b52b7bcc8)
-   - [Deploying Custom Python Packages from GitHub to Snowflake](https://medium.com/snowflake/deploying-custom-python-packages-from-github-to-snowflake-f0bb396480c7)
+   - [Getting Started with Snowpark and Streamlit](https://medium.com/snowflake/getting-started-with-snowpark-for-python-and-streamlit-908b52b7bcc8) on Medium
+   - [Deploying Custom Python Packages from GitHub to Snowflake](https://medium.com/snowflake/deploying-custom-python-packages-from-github-to-snowflake-f0bb396480c7) on Medium
+   - [Model Experiments, Tracking and Registration using MLflow on Databricks](https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html) on KDnuggets
+   - [On DZone](https://dzone.com/users/3445386/d-zone.html)
    - [Others...](https://streamsets.com/blog/author/dash-desai/)
 - 🔭 Here are my upcoming and past speaking engagements:
   - [PyCon UK 2022](https://pretalx.com/pycon-uk-2022/talk/JECQCM/)
