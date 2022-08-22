@@ -8,7 +8,7 @@ Thanks for stopping by. Here's a little bit about myself:
    - 💬 You can ask me about it 
    - 🤘 You can find my code examples and apps [here](https://github.com/iamontheinet/dash-at-summit-2022), [here](https://github.com/iamontheinet/streamlit-apps) and [here](https://github.com/Snowflake-Labs/snowpark-python-demos)
 - 📫 Here's how you can reach me: [Twitter](https://twitter.com/iamontheinet) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
-- ⚡ Fun fact about me: I am an aspiring photog -- [my website](https://www.natureunraveled.com/) | [my IG](https://www.instagram.com/nature.unraveled.photography/)
+- ⚡ Fun fact about me: I am an aspiring photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 - 📝 Here are my most recent blogs:
    - [Getting Started with Snowpark and Streamlit](https://medium.com/snowflake/getting-started-with-snowpark-for-python-and-streamlit-908b52b7bcc8)
    - [Deploying Custom Python Packages from GitHub to Snowflake](https://medium.com/snowflake/deploying-custom-python-packages-from-github-to-snowflake-f0bb396480c7)
