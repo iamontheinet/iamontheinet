@@ -2,15 +2,18 @@
 
 Thanks for stopping by. Here's a little bit about myself:
 
-- 🔭 I’m currently working on all things [Snowpark for Python](https://www.snowflake.com/snowpark/) + [Streamlit](https://streamlit.io/). That means...
-   - 👯 I'm looking to collaborate on it and create some cool content that we can share with the community
-   - 💬 You can ask me about it 
-   - 🤘 You can find most of my code examples and apps [here](https://github.com/iamontheinet/dash-at-summit-2022), [here](https://github.com/iamontheinet/streamlit-apps) and [here](https://github.com/Snowflake-Labs/snowpark-python-demos)
-- 📫 Here's how you can reach me: [Twitter](https://twitter.com/iamontheinet) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
 - 😄 My pronouns are: He/His/Him
+- 🔭 I’m currently working on all things [Snowpark for Python](https://www.snowflake.com/snowpark/) + [Streamlit](https://streamlit.io/). That means...
+   - 👯 I'm looking to collaborate and create some cool content that we can share with the community
+   - 💬 You can ask me about it 
+   - 🤘 You can find my code examples and apps [here](https://github.com/iamontheinet/dash-at-summit-2022), [here](https://github.com/iamontheinet/streamlit-apps) and [here](https://github.com/Snowflake-Labs/snowpark-python-demos)
+- 📫 Here's how you can reach me: [Twitter](https://twitter.com/iamontheinet) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
 - ⚡ Fun fact about me: I am an aspiring photog -- [my website](https://www.natureunraveled.com/) | [my IG](https://www.instagram.com/nature.unraveled.photography/)
+- 📝 Here are my most recent blogs:
+   - [Getting Started with Snowpark and Streamlit](https://medium.com/snowflake/getting-started-with-snowpark-for-python-and-streamlit-908b52b7bcc8)
+   - [Deploying Custom Python Packages from GitHub to Snowflake](https://medium.com/snowflake/deploying-custom-python-packages-from-github-to-snowflake-f0bb396480c7)
+   - [Others...](https://streamsets.com/blog/author/dash-desai/)
 - 🔭 Here are my upcoming and past speaking engagements:
-
   - [PyCon UK 2022](https://pretalx.com/pycon-uk-2022/talk/JECQCM/)
   - [PyCon Portugal 2022](https://pretalx.evolutio.pt/pyconpt2022/talk/review/JS8QFSRNJR7PVXVXRUWD737ER7WARXP8)
   - [DataEngBytes 2022](https://sessionize.com/app/speaker/session/352689)
