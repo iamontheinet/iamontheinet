@@ -18,10 +18,11 @@
    - [On DZone](https://dzone.com/users/3445386/d-zone.html)
    - [On Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/deep-learning-on-qubole-using-bigdl-for-apache-spark.html)
    - [On StreamSets](https://streamsets.com/blog/author/dash-desai/)
-- 🔭 Here are my upcoming and past speaking engagements:
+- 🔭 Here are my upcoming speaking engagements:
   - [PyCon UK 2022](https://pretalx.com/pycon-uk-2022/talk/JECQCM/)
   - [PyCon Portugal 2022](https://pretalx.evolutio.pt/pyconpt2022/talk/review/JS8QFSRNJR7PVXVXRUWD737ER7WARXP8)
   - [DataEngBytes 2022](https://sessionize.com/app/speaker/session/352689)
+- 🔭 Here are my past speaking engagements:
   - [Snowflake Summit 2022](https://events.snowflake.com/summit/agenda?speakers=1550821)
   - [Data+AI Summit Europe 2020](https://databricks.com/session_eu20/model-experiments-tracking-and-registration-using-mlflow-on-databricks)
   - [DataOpsDC Meetup 2020](https://www.meetup.com/DataOpsDC/events/273140615/)
