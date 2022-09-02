@@ -1,6 +1,6 @@
-## Hello, Meet Dash 👋
+# Hello, Meet Dash 👋
 
-Thanks for stopping by. Here's a little bit about myself:
+## Thanks for stopping by. Here's a little bit about myself...
 
 - 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently working on all things [Snowpark for Python](https://www.snowflake.com/snowpark/) + [Streamlit](https://streamlit.io/). That means...
