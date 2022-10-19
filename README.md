@@ -19,6 +19,10 @@
    - [On Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/deep-learning-on-qubole-using-bigdl-for-apache-spark.html)
    - [On StreamSets](https://streamsets.com/blog/author/dash-desai/)
 - 🔭 Here are my speaking engagements:
+  - Snowflake Data Cloud World Tour 2022
+    - [Auckland, New Zealand](https://www.snowflake.com/data-cloud-world-tour/apj/auckland/agenda-v2/)
+    - [Melbourne, Australia](https://www.snowflake.com/data-cloud-world-tour/apj/melbourne/)
+    - [Berlin, Germany](https://www.snowflake.com/data-cloud-world-tour/emea/berlin/agenda/)
   - [PyCon UK 2022](https://pretalx.com/pycon-uk-2022/talk/JECQCM/)
   - [PyCon Portugal 2022](https://pretalx.evolutio.pt/pyconpt2022/talk/review/JS8QFSRNJR7PVXVXRUWD737ER7WARXP8)
   - [DataEngBytes 2022](https://sessionize.com/app/speaker/session/352689)
