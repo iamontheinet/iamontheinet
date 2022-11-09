@@ -20,6 +20,7 @@
    - [On StreamSets](https://streamsets.com/blog/author/dash-desai/)
 - 🔭 Here are my speaking engagements:
   - Snowflake Data Cloud World Tour 2022
+    - [San Francisco, USA](https://www.snowflake.com/data-cloud-world-tour/americas/san-francisco/agenda/)
     - [Auckland, New Zealand](https://www.snowflake.com/data-cloud-world-tour/apj/auckland/agenda-v2/)
     - [Melbourne, Australia](https://www.snowflake.com/data-cloud-world-tour/apj/melbourne/)
     - [Berlin, Germany](https://www.snowflake.com/data-cloud-world-tour/emea/berlin/agenda/)
