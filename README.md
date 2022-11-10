@@ -1,4 +1,4 @@
-# Hello, Meet Dash 👋
+# Hello, I am Dash 👋
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
