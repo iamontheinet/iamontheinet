@@ -24,10 +24,14 @@
     - [Opening Keynote](https://events.snowflake.com/summit/sessions/agenda/session/1120282?widget=true)
     - [Builder Keynote](https://events.snowflake.com/summit/sessions/agenda/session/1120281?widget=true)
     - [Hands-On Lab: Data Engineering and ML using Snowpark Python and Streamlit](https://www.snowflake.com/summit/sessions/?agendaPath=speakers/3003917)
-  - Snowflake Data Cloud World Tour 2023
+  - Snowflake Data Cloud World Tour 2023 Keynote
     - [Singapore](https://www.snowflake.com/data-cloud-world-tour-singapore-agenda/)
     - [Sydney](https://www.snowflake.com/data-cloud-world-tour-sydney-agenda/)
     - [Melbourne](https://www.snowflake.com/data-cloud-world-tour-melbourne-agenda/)
+    - [London](https://www.snowflake.com/data-cloud-world-tour-london-agenda/)
+    - [Berlin](https://www.snowflake.com/data-cloud-world-tour-berlin-agenda/)
+    - [Amsterdam](https://www.snowflake.com/data-cloud-world-tour-amsterdam-agenda/)
+    - [Santa Clara](https://www.snowflake.com/events/data-cloud-world-tour-santa-clara/agenda/)
   - Snowflake Data Cloud World Tour 2022
     - [San Francisco, USA](https://www.snowflake.com/data-cloud-world-tour/americas/san-francisco/agenda?agendaPath=session/1022285)
     - [Auckland, New Zealand](https://www.snowflake.com/data-cloud-world-tour/apj/auckland/agenda-v2/)
