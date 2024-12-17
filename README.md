@@ -7,10 +7,15 @@
    - 👯 I'm looking to collaborate and create some cool content that we can share with the community
    - 💬 You can ask me about it 
    - 🤘 You can find my code examples and apps [here](https://github.com/iamontheinet/dash-at-summit-2022), [here](https://github.com/iamontheinet/streamlit-apps) and [here](https://github.com/Snowflake-Labs/snowpark-python-demos)
-- 📫 Here's how you can reach me: [Twitter](https://twitter.com/iamontheinet) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
+- 📫 Here's how you can reach me: [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
 - ⚡ Fun fact about me: I am an aspiring photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 - 📝 Here are my most recent blogs:
    - Medium
+     - [Integrate Snowflake Cortex Analyst REST API with Slack](https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b)
+     - [Run 3 useful LLM inference jobs in minutes with Snowflake Cortex](https://medium.com/snowflake/run-3-useful-llm-inference-jobs-in-minutes-with-snowflake-cortex-743a6096fff8)
+     - [Integrating Generative AI with Snowflake’s External Functions](https://medium.com/snowflake/integrating-generative-ai-with-snowflakes-external-functions-1764e861b23a)
+     - [Getting Started with Data Engineering and ML using Snowpark for Python](https://medium.com/snowflake/getting-started-with-data-engineering-and-ml-using-snowpark-for-python-155e05c14e0e)
+     - [Image Recognition in Snowflake using Snowpark Python, PyTorch, Streamlit and OpenAI](https://medium.com/snowflake/image-recognition-in-snowflake-using-snowpark-python-pytorch-streamlit-and-openai-1a8167b82449)
      - [Getting Started with Snowpark and Streamlit](https://medium.com/snowflake/getting-started-with-snowpark-for-python-and-streamlit-908b52b7bcc8)
      - [Deploying Custom Python Packages from GitHub to Snowflake](https://medium.com/snowflake/deploying-custom-python-packages-from-github-to-snowflake-f0bb396480c7)
      - [Snowpark For Python Open Source: How I Contributed And So Can You](https://medium.com/snowflake/snowpark-for-python-open-source-how-i-contributed-and-so-can-you-7eb4baac355f)
