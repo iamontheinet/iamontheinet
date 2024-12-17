@@ -1,11 +1,11 @@
 # Hello, I am Dash 👋
 
-## Thanks for stopping by. Here's a little bit about myself...
+### Thank you for stopping by. Here's a little bit about myself...
 
 - 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently working on all things Snowflake. That means...
    - 👯 I'm looking to collaborate and create some cool content that we can share with the community
-- 📫 Here's how you can reach me: [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
+- 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/dash-desai/) | [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social)
 - ⚡ Fun fact about me: I am an aspiring photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 - 📝 Here are my most recent blogs:
    - Medium
