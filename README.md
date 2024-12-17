@@ -3,10 +3,8 @@
 ## Thanks for stopping by. Here's a little bit about myself...
 
 - 😄 My pronouns are: He/His/Him
-- 🔭 I’m currently working on all things [Snowpark for Python](https://www.snowflake.com/snowpark/) + [Streamlit](https://streamlit.io/). That means...
+- 🔭 I’m currently working on all things Snowflake. That means...
    - 👯 I'm looking to collaborate and create some cool content that we can share with the community
-   - 💬 You can ask me about it 
-   - 🤘 You can find my code examples and apps [here](https://github.com/iamontheinet/dash-at-summit-2022), [here](https://github.com/iamontheinet/streamlit-apps) and [here](https://github.com/Snowflake-Labs/snowpark-python-demos)
 - 📫 Here's how you can reach me: [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social) | [LinkedIn](https://www.linkedin.com/in/dash-desai/)
 - ⚡ Fun fact about me: I am an aspiring photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 - 📝 Here are my most recent blogs:
