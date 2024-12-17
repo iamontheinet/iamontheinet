@@ -23,6 +23,18 @@
    - [On Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/deep-learning-on-qubole-using-bigdl-for-apache-spark.html)
    - [On StreamSets](https://streamsets.com/blog/author/dash-desai/)
 - 🔭 Here are my speaking engagements:
+  - Snowflake Summit 2024
+    - [Opening/Platform and Builders Keynotes](https://reg.summit.snowflake.com/flow/snowflake/summit24/sessions/page/catalog?search=%22Dash%20Desai%22&tab.sessioncatalogtab=1714168666431001NNiH)
+    - [Hands-On Lab: Build a RAG-Based LLM Assistant Using Streamlit and Snowflake Cortex AI](https://reg.summit.snowflake.com/flow/snowflake/summit24/sessions/page/catalog/session/1708733126121001yDUB)
+    - [Hands-On Lab: Gen AI with Snowflake Cortex AI](https://reg.summit.snowflake.com/flow/snowflake/summit24/sessions/page/catalog/session/1711677008501001OCpZ)
+  - ACCELERATE AI SUCCESS WITH SNOWFLAKE
+    - [Brisbane, Australia](https://www.snowflake.com/events/accelerate-ai-success-with-snowflake-brisbane/)
+    - [Perth, Australia](https://www.snowflake.com/events/accelerate-ai-success-with-snowflake-brisbane/)
+    - [Melbourne, Australia](https://www.snowflake.com/events/accelerate-ai-success-with-snowflake-melbourne/)
+    - [Auckland, New Zealand](https://www.snowflake.com/events/accelerate-ai-success-with-snowflake-auckland/)
+  - Snowflake World Tour 2024
+    - [Atlanta, USA](https://www.snowflake.com/events/snowflake-world-tour-atlanta/)
+    - [Stockholm, Sweden](https://www.snowflake.com/events/snowflake-world-tour-stockholm/)
   - Snowflake Summit 2023
     - [Opening Keynote](https://events.snowflake.com/summit/sessions/agenda/session/1120282?widget=true)
     - [Builder Keynote](https://events.snowflake.com/summit/sessions/agenda/session/1120281?widget=true)
