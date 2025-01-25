@@ -21,7 +21,7 @@
      - [Model Experiments, Tracking and Registration using MLflow on Databricks](https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html)
    - [On DZone](https://dzone.com/users/3445386/d-zone.html)
    - [On Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/deep-learning-on-qubole-using-bigdl-for-apache-spark.html)
-   - [On StreamSets](https://streamsets.com/blog/author/dash-desai/)
+   - [On StreamSets](https://streamsets.com/blog/author/dash-desai/) | [Alt site](https://www.softwareag.com/en_corporate/blog/author/dash-desai.html)
 - 🔭 Here are my speaking engagements:
   - Snowflake Summit 2024
     - [Opening/Platform and Builders Keynotes](https://reg.summit.snowflake.com/flow/snowflake/summit24/sessions/page/catalog?search=%22Dash%20Desai%22&tab.sessioncatalogtab=1714168666431001NNiH)
