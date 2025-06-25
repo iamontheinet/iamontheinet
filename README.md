@@ -27,7 +27,7 @@
   - [Snowflake Summit 2025](https://www.snowflake.com/en/summit/save-the-date/)
     - [Platform Keynote](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1741879011617001GONg)
     - [Build and Deploy Data Agents with Snowflake Cortex AI,AI308](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1737014712537001aXXq)
-  - [Snowflake Dev Day 2025]
+  - Snowflake Dev Day 2025
     - [Building Agentic Applications in Snowflake,AI252](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1743741914890001G4ms)
   - [Sowflake Virtual Dev Day 2025](https://www.snowflake.com/en/summit/dev-day/)
     - [Hands-on Lab: Building Agentic Applications in Snowflake](https://www.snowflake.com/dev-day-skill-up-with-ai-2025-06-26/?utm_cta=dev-day-promo-banner)
