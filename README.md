@@ -9,6 +9,7 @@
 - ⚡ Fun fact about me: I am an aspiring photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 - 📝 Here are my most recent blogs:
    - Medium
+     - [Build a Natural Language Data Assistant in VS Code with Copilot, MCP, and Snowflake Cortex AI](https://medium.com/snowflake/build-a-natural-language-data-assistant-in-vs-code-with-copilot-mcp-and-snowflake-cortex-ai-04a22a3b0f17)
      - [Integrate Snowflake Cortex Analyst REST API with Slack](https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b)
      - [Run 3 useful LLM inference jobs in minutes with Snowflake Cortex](https://medium.com/snowflake/run-3-useful-llm-inference-jobs-in-minutes-with-snowflake-cortex-743a6096fff8)
      - [Integrating Generative AI with Snowflake’s External Functions](https://medium.com/snowflake/integrating-generative-ai-with-snowflakes-external-functions-1764e861b23a)
@@ -23,6 +24,15 @@
    - [On Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/deep-learning-on-qubole-using-bigdl-for-apache-spark.html)
    - [On StreamSets](https://streamsets.com/blog/author/dash-desai/) | [Alt site](https://www.softwareag.com/en_corporate/blog/author/dash-desai.html)
 - 🔭 Here are my speaking engagements:
+  - [Snowflake Summit 2025](https://www.snowflake.com/en/summit/save-the-date/)
+    - [Platform Keynote](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1741879011617001GONg)
+    - [Build and Deploy Data Agents with Snowflake Cortex AI,AI308](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1737014712537001aXXq)
+  - [Snowflake Dev Day 2025]
+    - [Building Agentic Applications in Snowflake,AI252](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1743741914890001G4ms)
+  - [Sowflake Virtual Dev Day 2025](https://www.snowflake.com/en/summit/dev-day/)
+    - [Hands-on Lab: Building Agentic Applications in Snowflake](https://www.snowflake.com/dev-day-skill-up-with-ai-2025-06-26/?utm_cta=dev-day-promo-banner)
+  - [BUILD London 2025](https://www.snowflake.com/build/london/) 
+    - [Opening Keynote](https://events.bizzabo.com/677600/agenda/session/1538978) 
   - Snowflake Summit 2024
     - [Opening/Platform and Builders Keynotes](https://reg.summit.snowflake.com/flow/snowflake/summit24/sessions/page/catalog?search=%22Dash%20Desai%22&tab.sessioncatalogtab=1714168666431001NNiH)
     - [Hands-On Lab: Build a RAG-Based LLM Assistant Using Streamlit and Snowflake Cortex AI](https://reg.summit.snowflake.com/flow/snowflake/summit24/sessions/page/catalog/session/1708733126121001yDUB)
