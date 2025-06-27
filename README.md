@@ -18,6 +18,10 @@
  - [Integrate Snowflake Cortex with Zoom](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_zoom/index.html)
  - [
 Getting Started with Data Engineering and ML using Snowpark for Python and Snowflake Notebooks](https://quickstarts.snowflake.com/guide/getting_started_with_dataengineering_ml_using_snowpark_python/index.html)
+- [AI Video Search with Snowflake and Twelve Labs](https://quickstarts.snowflake.com/guide/ai-video-search-with-snowflake-and-twelveLabs/index.html)
+- [Apache Iceberg and Snowflake Open Catalog: Unlock Data Lake Interoperability with Apache Polaris](https://quickstarts.snowflake.com/guide/apache-iceberg-snowflake-open-catalog-snowpipe-streaming/index.html)
+- [Build Agentic Workflows with Hugging Face Smolagents in Snowflake](https://quickstarts.snowflake.com/guide/build-agentic-workflows-with-huggingface-smolagents-in-snowflake/index.html)
+- [Build GenAI Inpainting and Hybrid Table App in Snowpark Container Services](https://quickstarts.snowflake.com/guide/build_genai_inpainting_and_hybridtable_app_in_snowpark_container_services/index.html)
 
 ### Technical Blogs
    - Medium
