@@ -8,7 +8,7 @@
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/dash-desai/) | [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social)
 - ⚡ Fun fact about me: I am an aspiring skier and a photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 
-### QuickStart Guides
+## QuickStart Guides
 
  - [Getting Started with Cortex AISQL](https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql/index.html)
  - [Getting Started With Snowflake Cortex AI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai/index.html)
@@ -23,7 +23,7 @@ Getting Started with Data Engineering and ML using Snowpark for Python and Snowf
 - [Build Agentic Workflows with Hugging Face Smolagents in Snowflake](https://quickstarts.snowflake.com/guide/build-agentic-workflows-with-huggingface-smolagents-in-snowflake/index.html)
 - [Build GenAI Inpainting and Hybrid Table App in Snowpark Container Services](https://quickstarts.snowflake.com/guide/build_genai_inpainting_and_hybridtable_app_in_snowpark_container_services/index.html)
 
-### Technical Blogs
+## Technical Blogs
    - Medium
      - [Build a Natural Language Data Assistant in VS Code with Copilot, MCP, and Snowflake Cortex AI](https://medium.com/snowflake/build-a-natural-language-data-assistant-in-vs-code-with-copilot-mcp-and-snowflake-cortex-ai-04a22a3b0f17)
      - [Integrate Snowflake Cortex Analyst REST API with Slack](https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b)
