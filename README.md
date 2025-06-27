@@ -6,9 +6,20 @@
 - 🔭 I’m currently working on all things Snowflake. That means...
    - 👯 I'm looking to collaborate and create some cool content that we can share with the community
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/dash-desai/) | [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social)
-- ⚡ Fun fact about me: I am an aspiring photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
+- ⚡ Fun fact about me: I am an aspiring skier and a photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 
-### 📝 Blogs
+### QuickStart Guides
+
+ - [Getting Started with Cortex AISQL](https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql/index.html)
+ - [Getting Started With Snowflake Cortex AI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai/index.html)
+ - [Build Agentic Application with Anthropic In Snowflake](https://quickstarts.snowflake.com/guide/build-agentic-application-in-snowflake/index.html)
+ - [Integrate Snowflake Cortex with Slack](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_slack/index.html)
+ - [Integrate Snowflake Cortex with Microsoft Teams](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_microsoft_teams/index.html)
+ - [Integrate Snowflake Cortex with Zoom](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_zoom/index.html)
+ - [
+Getting Started with Data Engineering and ML using Snowpark for Python and Snowflake Notebooks](https://quickstarts.snowflake.com/guide/getting_started_with_dataengineering_ml_using_snowpark_python/index.html)
+
+### Technical Blogs
    - Medium
      - [Build a Natural Language Data Assistant in VS Code with Copilot, MCP, and Snowflake Cortex AI](https://medium.com/snowflake/build-a-natural-language-data-assistant-in-vs-code-with-copilot-mcp-and-snowflake-cortex-ai-04a22a3b0f17)
      - [Integrate Snowflake Cortex Analyst REST API with Slack](https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b)
@@ -21,11 +32,13 @@
      - [Snowpark For Python Open Source: How I Contributed And So Can You](https://medium.com/snowflake/snowpark-for-python-open-source-how-i-contributed-and-so-can-you-7eb4baac355f)
    - KDnuggets
      - [Model Experiments, Tracking and Registration using MLflow on Databricks](https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html)
+   - Data Science Central
+     - [Load Data Into Google BigQuery on Dataproc and AutoML](https://www.datasciencecentral.com/load-data-into-google-bigquery-on-dataproc-and-automl/)
    - [DZone](https://dzone.com/users/3445386/d-zone.html)
    - [Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/deep-learning-on-qubole-using-bigdl-for-apache-spark.html)
-   - [StreamSets](https://streamsets.com/blog/author/dash-desai/) | [Alt site](https://www.softwareag.com/en_corporate/blog/author/dash-desai.html)
+   - [StreamSets](https://www.softwareag.com/en_corporate/blog/author/dash-desai.html)
 
-## 🔭 Speaking Engagements
+## Speaking Engagements
   - [Snowflake Summit 2025](https://www.snowflake.com/en/summit/save-the-date/)
     - [Platform Keynote](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1741879011617001GONg)
     - [Build and Deploy Data Agents with Snowflake Cortex AI,AI308](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1737014712537001aXXq)
@@ -75,7 +88,7 @@
   - [CraftConf 2015 and 2016](https://crunchconf.com/)
   - [Developer Week 2015](https://developerweek2015conferenceexpo.sched.com/event/1e937ac4a101dcb183b70c4a171d07a3)
     
-## 🤘 Open Source Contributions
+## Open Source Contributions
   - [Snowflake Python Client](https://github.com/snowflakedb/snowpark-python/issues/383)
   - [Snowflake Python Connector](https://github.com/snowflakedb/snowflake-connector-python/issues/1175)    
 
