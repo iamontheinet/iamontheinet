@@ -15,7 +15,7 @@
  - [Build Agentic Application with Anthropic In Snowflake](https://quickstarts.snowflake.com/guide/build-agentic-application-in-snowflake/index.html)
  - [Integrate Snowflake Cortex with Slack](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_slack/index.html)
  - [Integrate Snowflake Cortex with Microsoft Teams](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_microsoft_teams/index.html)
- - [Integrate Snowflake Cortex with Zoom](https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_zoom/index.html)
+ - [Integrate Snowflake Cortex with Zoom](https://quickstarts.snowflake.com/guide//integrate-snowflake-cortex-agents-with-zoom/index.html)
  - [
 Getting Started with Data Engineering and ML using Snowpark for Python and Snowflake Notebooks](https://quickstarts.snowflake.com/guide/getting_started_with_dataengineering_ml_using_snowpark_python/index.html)
 - [AI Video Search with Snowflake and Twelve Labs](https://quickstarts.snowflake.com/guide/ai-video-search-with-snowflake-and-twelveLabs/index.html)
