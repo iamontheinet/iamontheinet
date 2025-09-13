@@ -10,6 +10,8 @@
 
 ## QuickStart Guides
 
+ - [Getting Started with Snowflake Intelligence](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-intelligence/index.html)
+ - [Getting Started with Snowflake Intelligence and Cortex Knowledge Extensions](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-intelligence-and-cke/index.html)
  - [Getting Started with Cortex AISQL](https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql/index.html)
  - [Getting Started With Snowflake Cortex AI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai/index.html)
  - [Build Agentic Application with Anthropic In Snowflake](https://quickstarts.snowflake.com/guide/build-agentic-application-in-snowflake/index.html)
