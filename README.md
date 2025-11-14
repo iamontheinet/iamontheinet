@@ -5,8 +5,8 @@
 - 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently working on all things Snowflake. That means...
    - 👯 I'm looking to collaborate and create some cool content that we can share with the community
-- 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/dash-desai/) | [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social)
-- ⚡ Fun fact about me: I am an aspiring skier and a photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
+- 📫 Here's how you can reach me: Very active -- [LinkedIn](https://www.linkedin.com/in/dash-desai/) | Not so active -- [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social)
+- ⚡ Fun facts about me: I am an aspiring skier and a photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 
 ## Technical Guides
 
