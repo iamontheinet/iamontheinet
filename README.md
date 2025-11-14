@@ -8,8 +8,9 @@
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/dash-desai/) | [Bluesky](https://bsky.app/profile/iamontheinet.bsky.social)
 - ⚡ Fun fact about me: I am an aspiring skier and a photog -- [Website](https://www.natureunraveled.com/) | [Instagram](https://www.instagram.com/nature.unraveled.photography/)
 
-## QuickStart Guides
+## Technical Guides
 
+ - [Getting Started with Snowflake MCP Server](https://www.snowflake.com/en/developers/guides/getting-started-with-snowflake-mcp-server/)
  - [Getting Started with Snowflake Intelligence](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-intelligence/index.html)
  - [Getting Started with Snowflake Intelligence and Cortex Knowledge Extensions](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-intelligence-and-cke/index.html)
  - [Getting Started with Cortex AISQL](https://quickstarts.snowflake.com/guide/getting-started-with-cortex-aisql/index.html)
@@ -45,6 +46,15 @@ Getting Started with Data Engineering and ML using Snowpark for Python and Snowf
    - [StreamSets](https://www.softwareag.com/en_corporate/blog/author/dash-desai.html)
 
 ## Speaking Engagements
+  - Snowflake World Tour 2025
+    - [Sydney, Australia](https://www.snowflake.com/en/world-tour/sydney/)
+    - [NYC, New York](https://www.snowflake.com/en/world-tour/nyc/)
+    - [Auckland, New Zealand](https://www.snowflake.com/en/world-tour/auckland/)
+    - [Amsterdam, The Netherlands](https://www.snowflake.com/en/world-tour/amsterdam/)
+  - Meetups 2025
+    - [London](https://usergroups.snowflake.com/events/details/snowflake-london-presents-lsug-snowflake-intelligence-elevating-software-delivery/)
+    - [Amsterdam](https://usergroups.snowflake.com/events/details/snowflake-netherlands-presents-dash-desai-presents-snowflake-intelligence-hands-on/)
+    - [Prague](https://usergroups.snowflake.com/events/details/snowflake-prague-presents-prague-user-group-meetup-with-a-special-guest-dash-desai-a-senior-expert-from-snowflake-usa/)
   - [Snowflake Summit 2025](https://www.snowflake.com/en/summit/save-the-date/)
     - [Platform Keynote](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1741879011617001GONg)
     - [Build and Deploy Data Agents with Snowflake Cortex AI,AI308](https://reg.summit.snowflake.com/flow/snowflake/summit25/sessions/page/catalog/session/1737014712537001aXXq)
